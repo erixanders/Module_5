@@ -8,7 +8,7 @@ Unsurprisingly, it seems that those in urban areas spend more on PyBer than thos
 Next is Suburbs in the middle, still a pretty high rate but nothing even close to Urban.
 Rural seemed to have the most use in April and end of February, but seems to be rarely used.
 
-image.png
+![Alt text](Resources/PyBer_summary.png)
 
 
 **Summary**
